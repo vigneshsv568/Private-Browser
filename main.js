@@ -1,4 +1,4 @@
-// Module
+// Modu
 const {app, BrowserWindow, ipcMain} = require('electron')
 const windowStateKeeper = require('electron-window-state')
 const readItem = require('./readItem')
