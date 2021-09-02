@@ -8,16 +8,13 @@
     "watch": "nodemon --exec electron .",
     "reset": "git reset --hard",
     "dist": "electron-builder"
-
   },
-  
   "keywords": [
     "Electron",
     "Browser-Electron",
     "demo"
   ],
   "author": "GitHub, vigneshsv568",
-  
   "devDependencies": {
     "electron": "^9.0.0",
     "nodemon": "^2.0.0"
